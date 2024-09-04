@@ -1,3 +1,7 @@
+/**
+ * @version v0.1
+ * @author Shishkin A.S.
+ */
 #include <iostream>
 #include <fstream>
 #include <vector>
